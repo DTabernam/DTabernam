@@ -2,9 +2,9 @@
 
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://private-user-images.githubusercontent.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjEzNDksIm5iZiI6MTczMDY2MTA0OSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDU0ODctMzMyNWI2MGItNjU2NS00NWRhLWFiM2UtOWQzMTM0MWMxYjViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE5MTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMjE4NTlhZjAzYjU1NmFiOTA0NWQxM2Y3MzI1NzdmMDg0NzQzNDI2OGI5NDU2YTI2Zjg5ZTA5NWRiM2Y3MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._BxZag2BBP_fx8agiyEMMM3DhGbgHmPdlz1zvs91uOY" width="1.75%" align="left" alt="flame1"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+DTabernam+and+Welcome+to+my+Profile!" alt="Hey, I'm DTabernam and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="1.75%" align="right" alt="flame2"/>
+  <img src="https://private-user-images.githubusercontent.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjEzNDksIm5iZiI6MTczMDY2MTA0OSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDU0ODctMzMyNWI2MGItNjU2NS00NWRhLWFiM2UtOWQzMTM0MWMxYjViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE5MTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMjE4NTlhZjAzYjU1NmFiOTA0NWQxM2Y3MzI1NzdmMDg0NzQzNDI2OGI5NDU2YTI2Zjg5ZTA5NWRiM2Y3MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._BxZag2BBP_fx8agiyEMMM3DhGbgHmPdlz1zvs91uOY" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 
@@ -100,59 +100,7 @@ Hey there! 👋 I'm Vicente Castañer, a Full Stack developer who loves to creat
 
 
 
-<div align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="16px" align="left"/>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="16px" align="right"/>
-  <h2> 🏆 My Github Stats </h2><br>
 
-
-
-<img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
-<p  style="animation: fadein 2s;">
-  <br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
-</p>
-  <img align="center" src="https://streak-stats.demolab.com?user=muhammad-fiaz&theme=tokyonight"   alt="GitHub Streak"/>
-    
-  <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: dark)"
-    width="36%"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="36%"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="36%" />
-</picture>
-
-<br/>
-<p  style="animation: fadein 2s;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-fiaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
-</p>
-
-</div> 
-
-<div align="center">
-
-[![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fiaz&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
-
-</div>
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
@@ -164,7 +112,7 @@ Hey there! 👋 I'm Vicente Castañer, a Full Stack developer who loves to creat
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="16px" align="right" alt="flame"/>
 
 
-  <h2> <strong> 👨‍💻 My Works Stats </strong></h2>
+  <h2> <strong> 👨‍💻 Some of my Work </strong></h2>
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 <br>
 
@@ -172,14 +120,8 @@ Hey there! 👋 I'm Vicente Castañer, a Full Stack developer who loves to creat
 <div align="center">
 
 [![Rust-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=dtabernam&repo=&theme=tokyonight)]() &nbsp;
-
-
-
 </div>
-
 <br>
-
-[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
 </div>
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 
