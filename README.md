@@ -38,11 +38,11 @@
 
 <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274606071-d9e4b62b-5878-4d64-a362-bce0b027ed03.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T191308Z&X-Amz-Expires=300&X-Amz-Signature=fbf9b53c831792da725f55ad1d9a2086f6413b486b1483ddd112bb0188058795&X-Amz-SignedHeaders=host" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
-Hey there! 👋 I'm Vicente Castañer, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Games and Web Applications because I want to continue growing and honing my skills 😄.
-  <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
-  <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
-  <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
-  <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
+Hey there! I'm Vicente Castañer, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Games and Web Applications because I want to continue growing and honing my skills 😄.
+  <br>-  I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
+  <br>-  I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
+  <br>-  I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
+  <br>- If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
   <br>Feel free to explore my projects and <a href="https://discordapp.com/users/752941472797556797" > get in touch</a> for collaborations!<br>
 </p>
 
@@ -112,7 +112,7 @@ Hey there! 👋 I'm Vicente Castañer, a Full Stack developer who loves to creat
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75434191/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T183254Z&X-Amz-Expires=300&X-Amz-Signature=a03862ec961deba482ea0a73df4531910251a9b7d132498552292662fcc83d5b&X-Amz-SignedHeaders=host" width="16px" align="right" alt="flame"/>
 
 
-  <h2> <strong> 👨‍💻 Some of my Work </strong></h2>
+  <h2> <strong> Some of my Work </strong></h2>
 <img src="https://private-user-images.githubusercontent.com/75434191/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2NjAwMDEsIm5iZiI6MTczMDY1OTcwMSwicGF0aCI6Ii83NTQzNDE5MS8yNzQ2MDUxODMtZmQ3MTYyMjktZmJkOS00NmQzLThjY2QtMzY5N2ZmZTdlNDFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAzVDE4NDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjFlODc4NWU0YzZlNGMxOTE4Njg0YmVjZWUzNDQ5M2Y5MGQxZTIxMDNjMWZhMzBkZmEyNWY3OTg1MWM2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sxEqnsCQJqJMyObhJVo8BoS0LNNBDEWnY8iAaEnER4k" width="100%" alt="marginline"/>
 <br>
 
